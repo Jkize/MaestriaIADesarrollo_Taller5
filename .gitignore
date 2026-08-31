@@ -1,0 +1,18 @@
+# Material de desarrollo de la parte 1; no forma parte del paquete entregable.
+dev/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Ambientes y herramientas
+.venv/
+venv/
+.tox/
+.pytest_cache/
+.mypy_cache/
+
+# Artefactos de construcción
+build/
+dist/
